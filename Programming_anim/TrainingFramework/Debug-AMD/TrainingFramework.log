@@ -1,0 +1,17 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  GSPlay.cpp
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.h(42,28): error C2086: 'std::shared_ptr<Sprite2D> GSPlay::m_BackGround': redefinition
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.h(36): message : see declaration of 'GSPlay::m_BackGround'
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(41,60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(41,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(61,2): error C2065: 'button': undeclared identifier
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(62,2): error C2065: 'button': undeclared identifier
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(63,2): error C2065: 'button': undeclared identifier
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(64,2): error C2065: 'button': undeclared identifier
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(67,25): error C2065: 'button': undeclared identifier
+  Generating Code...
+  Compiling...
+  GameStatebase.cpp
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.h(42,28): error C2086: 'std::shared_ptr<Sprite2D> GSPlay::m_BackGround': redefinition
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\TrainingFramework\src\GameStates\GSPlay.h(36): message : see declaration of 'GSPlay::m_BackGround'
+  Generating Code...

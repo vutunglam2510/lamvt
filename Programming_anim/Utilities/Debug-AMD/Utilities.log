@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  U_Math.cpp
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\Utilities\src\U_Math.cpp(7,13): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\Utilities\src\U_Math.cpp(101,13): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\Utilities\src\U_Math.cpp(205,13): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Tài liệu\Đại học\20192\Thực tập Gameloft\Programming_anim\Utilities\src\U_Math.cpp(649,1): fatal error C1004: unexpected end-of-file found
